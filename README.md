@@ -28,9 +28,8 @@ Uygulamayı sisteminize kurmak ve `doguhan` komutu ile çalıştırmak için aş
 1.  **Projeyi Klonlayın**:
     Terminali veya komut istemcisini açın ve aşağıdaki komutla projeyi bilgisayarınıza indirin:
     ```sh
-    git clone [https://github.com/kullanici-adiniz/ghostnotes.git](https://github.com/kullanici-adiniz/ghostnotes.git)
+    git clone [https://github.com/dovuhan/ghost-notes.git](https://github.com/dovuhan/ghost-notes.git)
     ```
-    *(Not: Eğer bir GitHub reponuz varsa, `kullanici-adiniz/ghostnotes.git` kısmını kendi adresinizle güncelleyebilirsiniz.)*
 
 2.  **Proje Dizinine Girin**:
     ```sh
